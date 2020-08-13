@@ -1,0 +1,17 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+text=auto
+
+*.ts text
+*.tsx text
+*.scss text
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.svg binary
+*.eot binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+*.swf binary
